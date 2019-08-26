@@ -54,7 +54,7 @@ https://blog.csdn.net/m0_37156901/article/details/94435165
 |KK|2019-08-20|[Note](https://github.com/aicourse/demo/blob/master/lesson1/note/KK_note.md)|[Assignment](https://github.com/aicourse/demo/blob/master/lesson1/assignment/KK_assignment)|
 |小K|2019-08-20|无|无|
 |鲸落|2019-08-26|[note/绪论笔记（NLP的概念、发展及主要研究方法）](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson1/note/绪论笔记（NLP的概念、发展及主要研究方法）.et)|无|
-|风铃|2019-08-26|[note/fengling_note.md](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson1/note/fengling_note.md)|无|
+|风铃|2019-08-26|[1、绪论](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson1/note/fengling_note.md)|无|
 
 ## 第二课 怎样写demo
 
