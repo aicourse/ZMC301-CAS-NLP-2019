@@ -44,15 +44,16 @@ https://blog.csdn.net/m0_37156901/article/details/94435165
 *以上参考资源欢迎同学们有推荐的补充～*
 
 
-学习小组（待定）：KK、小K
+学习小组（待定）：KK、小K、鲸落
 
 
-## 第一课 什么是demo
+## 第一课 绪论
 
 |打卡人|完成时间|笔记|作业|
 |---|---|---|---|
 |KK|2019-08-20|[Note](https://github.com/aicourse/demo/blob/master/lesson1/note/KK_note.md)|[Assignment](https://github.com/aicourse/demo/blob/master/lesson1/assignment/KK_assignment)|
 |小K|2019-08-20|无|无|
+|鲸落|2019-08-26|[note/绪论笔记（NLP的概念、发展及主要研究方法）](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson1/note/绪论笔记（NLP的概念、发展及主要研究方法）.et)|无|
 
 ## 第二课 怎样写demo
 
