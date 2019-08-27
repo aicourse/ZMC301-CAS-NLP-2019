@@ -1,0 +1,111 @@
+#%% md
+# 宗成庆《自然语言处理》
+## Chapter 1
+#%% md
+USA famous NLP courses：
+
+Columbia University NLP Michael Collins http://www.cs.columbia.edu/~cs4705/
+
+CMU NLP Chris Dyer http://demo.clab.cs.cmu.edu/NLP/
+
+MIT NLP Robert C.Berwick http://web.mit.edu/6.863/www/fall2012/
+
+Stanford University NLP Dan Jurafsky and Christopher Manning
+http://online.stanford.edu/course/natural-language-processing
+#%% md
+问题：人工难以应对的文本大数据
+自然语言处理Natural Language Processing, NLP
+#%% md
+语言学 (linguistics)：研究语言的本质、结构和发展规律的科学。
+语音和文字是语言的两个基本属性。
+
+语音学 (phonetics)：研究人类发音特点，特别是语音发音特点，并提出各种语音描述、分类和转写方法的科学。
+
+计算语言学(Computational Linguistics CL)：通过建立形式化的计算模型来分析、理解和生成自然语言的学科，是人工智能和语言学的分支学科。也称自然语言处理或自然语言理解。
+
+自然语言理解(Natural Language Understanding, NLU)自然语言理解是探索人类自身语言能力和语言思
+维活动的本质，研究模仿人类语言认知过程的自然语言处理方法和实现技术的一门学科。
+
+人类语言技术 human language technology,HLT
+
+
+#%% md
+![WechatIMG44.jpeg](attachment:WechatIMG44.jpeg)
+#%% md
+三个不同的语系
+ 屈折语(fusional language/ inflectional language): 用词
+的形态变化表示语法关系，如英语、法语等。
+ 黏着语(agglutinative language): 词内有专门表示语
+法意义的附加成分，词根或词干与附加成分的结
+合不紧密，如日语、韩语、土耳其语等。
+ 孤立语(analytic language)(分析语, isolatinglanguage): 形态变化少，语法关系靠词序和虚词
+表示，如汉语。
+
+中文信息处理(Chinese Information Processing)针对中文的自然语言处理技术。
+#%% md
+按照应用目标划分，广义上包括
+ 机器翻译 (Machine translation, MT)：
+在机器翻译研究中实现人机共生(man-machine symbiosis)和人机互助，比追求完全自动的高质量的翻译(Full Automatic High Quality Translation, FAHQT) 更现实、更切合实际.
+
+信息检索 (Information retrieval)信息检索也称情报检索，就是利用计算机系统从大量文档中找到符合用户需要的相关信息。
+
+自动文摘 (Automatic summarization / Automaticabstracting)
+将原文档的主要内容或某方面的信息自动提取出来，并形成原文档的摘要或缩写。
+观点挖掘 (Opinion mining) 。
+
+问答系统 (Question-answering system)通过计算机系统对人提出的问题的理解，利用自动推理等手段，在有关知识资源中自动求解答案并做出相应的回答。问答技术有时与语音技术和多模态输入/输出技术，以及人机交互技术等相结合，构
+成人机对话系统 (man-computer dialogue system)。
+社区问答(Community Question Answering, CQA)
+
+
+#%% md
+![WX@2x.png](attachment:WX@2x.png)
+#%% md
+- 信息过滤 (Information filtering)通过计算机系统自动识别和过滤那些满足特定条件的文档信息。
+
+- 信息抽取 (Information extraction)从指定文档中或者海量文本中抽取出用户感兴趣的信息。
+  实体关系抽取 (entity relation extraction)。社会网络 (social network)
+
+- 文档分类 (Document categorization)
+文档分类也叫文本自动分类 (Text categorization /classification) 或信息分类(Information categorization /classification)，其目的就是利用计算机系统对大量的文档按照一定的分类标准（例如，根据主题或内容划分等）实现自动归类。
+- 情感分类(Sentimental classification)  
+  文字编辑和自动校对(Automatic proofreading)对文字拼写、用词、甚至语法、文档格式等进行自动检查、校对和编排。  
+- 语言教学 (Language teaching)
+- 文字识别 (Character recognition)
+- 语音识别 (automatic speech recognition, ASR)将输入语音信号自动转换成书面文字。
+- 文语转换/ 语音合成 (text-to-speech synthesis)将书面文本自动转换成对应的语音表征。
+- 说话人识别/认同/验证 (speaker recognition/identification/ verification)
+
+
+
+
+#%% md
+## 基本问题
+#%% md
+- 形态学 (Morphology) 问题
+  词素：词根、前缀、后缀、词尾
+- 句法 (Syntax) 问题
+- 语义 (Semantics) 问题
+- 语用学(Pragmatics) 问题
+- 语音学(Phonetics) 问题
+#%% md
+## 主要困难
+#%% md
+- 大量歧义(ambiguity)现象
+- 大量未知语言现象
+ - 普遍存在的不确定性：
+ - 未知语言现象的不可预测性：
+ - 始终面临的数据不充分性：
+ - 语言知识表达的复杂性：
+ - 机器翻译中映射单元的不对等性：
+#%% md
+## 基本研究方法
+#%% md
+- 知识库＋推理系统 = NLP系统
+    
+    理论基础：Chomsky 的文法理论
+- 语料库＋统计模型 = NLP系统	
+    理论基础：统计学、信息论、机器学习
+
+- 根据贝叶斯公式求解使P值（概率）最大的C（目标句子）
+#%%
