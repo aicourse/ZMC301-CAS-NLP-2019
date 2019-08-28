@@ -66,6 +66,7 @@ https://blog.csdn.net/m0_37156901/article/details/94435165
 |Vincent|2019-08-28|[绪论note](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson1/note/vincent/Vincent.md) |无|
 |别逃了，就是你|2019-08-28|[第一章 绪论](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson1/note/别逃了，就是你/第一章_绪论_笔记.md)|无|
 |aria|2019-08-27|[chapter1](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson1/note/aria/chapter1.ipynb)|无
+|虹膜小鱼|2019-08-27|[01_introduction_虹膜小鱼](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson1/note/%E8%99%B9%E8%86%9C%E5%B0%8F%E9%B1%BC_note/01_introduction_%E8%99%B9%E8%86%9C%E5%B0%8F%E9%B1%BC)|无|
 
 ## 第二课 怎样写demo
 
