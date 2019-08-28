@@ -64,7 +64,8 @@ https://blog.csdn.net/m0_37156901/article/details/94435165
 |鲸落|2019-08-26|[鲸落的绪论笔记（NLP的概念、发展及主要研究方法）](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson1/note/%E9%B2%B8%E8%90%BD/%E7%BB%AA%E8%AE%BA%E7%AC%94%E8%AE%B0%EF%BC%88NLP%E7%9A%84%E6%A6%82%E5%BF%B5%E3%80%81%E5%8F%91%E5%B1%95%E5%8F%8A%E4%B8%BB%E8%A6%81%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%EF%BC%89.et)|无|
 |风铃|2019-08-26|[1、绪论](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson1/note/fengling_note/fengling_note.md)|无|
 |Vincent|2019-08-28|[绪论note](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson1/note/vincent/Vincent.md) |无|
-|别逃了，就是你|2019-08-28|[第一章 绪论](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson1/note/别逃了，就是你/第一章_绪论_笔记.md)|无|aria|2019-08-27|[chapter1](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson1/note/aria/chapter1.ipynb)|无
+|别逃了，就是你|2019-08-28|[第一章 绪论](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson1/note/别逃了，就是你/第一章_绪论_笔记.md)|无|
+|aria|2019-08-27|[chapter1](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson1/note/aria/chapter1.ipynb)|无
 
 ## 第二课 怎样写demo
 
