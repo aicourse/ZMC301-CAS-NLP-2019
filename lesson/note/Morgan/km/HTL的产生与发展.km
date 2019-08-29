@@ -1,0 +1,94 @@
+{
+    "root": {
+        "data": {
+            "id": "bwk44cmcncw0",
+            "created": 1566878636849,
+            "text": "HLT的产生与发展"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "bwk45855guo0",
+                    "created": 1566878705466,
+                    "text": "1946"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "bwk45ertnxk0",
+                    "created": 1566878719898,
+                    "text": "ENIAC诞生-萌芽期"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "bwk45zp6efc0",
+                    "created": 1566878765450,
+                    "text": "1960S中期"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "bwk4662gf8o0",
+                    "created": 1566878779314,
+                    "text": "步履维艰"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "bwk47c7ig000",
+                    "created": 1566878871044,
+                    "text": "1970S中后期"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "bwk48gnmja80",
+                    "created": 1566878959090,
+                    "text": "复苏"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "bwk48lxvnxk0",
+                    "created": 1566878970594,
+                    "text": "1980S"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "bwk4a9l28680",
+                    "created": 1566879100426,
+                    "text": "快速发展"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "bwk4acfl2a00",
+                    "created": 1566879106625,
+                    "text": "2010"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "bwk4afbug880",
+                    "created": 1566879112929,
+                    "text": "繁荣期"
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "fish-bone",
+    "theme": "fresh-purple-compat",
+    "version": "1.4.43"
+}
