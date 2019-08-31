@@ -70,5 +70,5 @@ $$Z(b)= {\sum}exp(\sum^l_{j=1}\lambda_jf_j(a,b))|_a$$
 
 $$H(X)=-(\frac{22}{53} \log{\frac{1}{53} }+\frac{9}{53} \log{\frac{2}{53} }+\frac{3}{53} \log{\frac{3}{53} }+\frac{1}{53} \log{\frac{4}{53} } )=\frac{9}{53}\log{3}+\log53-\frac{26}{53}$$
 
-2.略
+2.略<br>
 3.AAB,ABBB
