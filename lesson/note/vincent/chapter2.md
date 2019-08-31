@@ -23,7 +23,7 @@
 * 互信息：I(X;Y)=H(X)-H(X|Y)
 * 噪声信道模型：
 
-$${H(X,q)=H(X)+D(p||q)}=-\sum{p(x)}\log_2{p(x)}+\sum{p(x)}\log_2{\frac{p(x)}{q(x)}}=-\sum{p(x)}\log_2{q(x)}<br>$$
+$$H(X,q)=H(X)+D(p||q)=-\sum{p(x)}\log_2{p(x)}+\sum{p(x)}\log_2{\frac{p(x)}{q(x)}}=-\sum{p(x)}\log_2{q(x)}<br>$$
 
 $$H(X|Y)=-\sum_X\sum_Yp(x,y)\log_2p(X|Y)$$
 
@@ -38,7 +38,7 @@ $$p(s_i)=\frac{N(s_i)}{N(w)}$$
 $s_i$为多义词$w$的某语义,$N()$为次数
  
 #### 2. 基于最大熵的消歧方法
-求解$$b$$属于$$B$$的$$p(a|b)$$使$$H(p(A|B))$$最大
+求解$b$属于$B$的$p(a|b)$使$H(p(A|B))$最大
 
 $$p^*(a|b)=\frac1{Z(b)}exp(\sum^l_{j=1}\lambda_jf_j(a,b))$$
 
