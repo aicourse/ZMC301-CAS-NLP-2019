@@ -22,27 +22,42 @@
 * 困惑度：2^H(L,q)
 * 互信息：I(X;Y)=H(X)-H(X|Y)
 * 噪声信道模型：
+$$
+H(X,q)=H(X)+D(p||q)=-\sum{p(x)}\log_2{p(x)}+\sum{p(x)}\log_2{\frac{p(x)}{q(x)}}=-\sum{p(x)}\log_2{q(x)}
+$$
 
-$$H(X,q)=H(X)+D(p||q)=-\sum{p(x)}\log_2{p(x)}+\sum{p(x)}\log_2{\frac{p(x)}{q(x)}}=-\sum{p(x)}\log_2{q(x)}<br>$$
-
-$$H(X|Y)=-\sum_X\sum_Yp(x,y)\log_2p(X|Y)$$
+$$
+H(X|Y)=-\sum_X\sum_Yp(x,y)\log_2p(X|Y)
+$$
 
 ## 实例
 ### 基于上下文的消歧方法
 #### 1. 基于贝叶斯分类器
 
-$$p(s_i|C)=\frac{p(s_i)\times p(C|s_i)}{p(C)}$$
+$$
+p(s_i|C)=\frac{p(s_i)\times p(C|s_i)}{p(C)}
+$$
 
-$$p(s_i)=\frac{N(s_i)}{N(w)}$$
+$$
+p(s_i)=\frac{N(s_i)}{N(w)}
+$$
 
-$s_i$为多义词$w$的某语义,$N()$为次数
+$$
+s_i为多义词w的某语义,N(x)为次数
+$$
  
 #### 2. 基于最大熵的消歧方法
-求解$b$属于$B$的$p(a|b)$使$H(p(A|B))$最大
+$$
+求解b属于B的p(a|b)使H(p(A|B))最大
+$$
 
-$$p^*(a|b)=\frac1{Z(b)}exp(\sum^l_{j=1}\lambda_jf_j(a,b))$$
+$$
+p^*(a|b)=\frac1{Z(b)}exp(\sum^l_{j=1}\lambda_jf_j(a,b))
+$$
 
-$$Z(b)= {\sum}exp(\sum^l_{j=1}\lambda_jf_j(a,b))|_a$$
+$$
+Z(b)= {\sum}exp(\sum^l_{j=1}\lambda_jf_j(a,b))|_a
+$$
 
 表示方法：
 * 位置无关：目标词周围的词形、词性或其组合构成 的集合，如取±2 窗口范围内的词形
@@ -54,7 +69,7 @@ $$Z(b)= {\sum}exp(\sum^l_{j=1}\lambda_jf_j(a,b))|_a$$
 *  利用增量式特征选择方法(Della Pietra et al.)从候选特 征集中选择特征。(比较复杂)
 最终选定 k (k > 0) 个特征，对应 k 个特征函数 f。在以 下叙述中不再区分特征和特征函数。l=k+1
 
-获取$\lambda$参数——利用GIS(generalized interactive scaling) 算法
+获取λ参数——利用GIS(generalized interactive scaling) 算法
 
 
 ## 作业
