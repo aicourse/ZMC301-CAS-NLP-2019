@@ -77,6 +77,6 @@ https://blog.csdn.net/m0_37156901/article/details/94435165
 |风铃|2019-08-29|[2、数学基础](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/风铃/note/2、数学基础.md)|无|
 |lin|2019-8-29|无|无|
 |Vincent|2019-08-31|[chapter2](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/vincent/chapter2.md)|无|
-## 第三课 demo的最佳实践
+## 第三课 形式语言与自动机
 
 ## 第四课 demo的展望
