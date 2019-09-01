@@ -80,6 +80,6 @@ https://blog.csdn.net/m0_37156901/article/details/94435165
 ## 第三课 形式语言与自动机
 |打卡人|完成时间|笔记|作业|
 |---|---|---|---|
-|KK|2019-09-01|[C3](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/note/lin_note/C3.pdf)|无|
+|Lin|2019-09-01|[C3](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/note/lin_note/C3.pdf)|无|
 
 ## 第四课 demo的展望
