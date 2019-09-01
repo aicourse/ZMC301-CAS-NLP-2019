@@ -68,7 +68,7 @@ https://blog.csdn.net/m0_37156901/article/details/94435165
 |aria|2019-08-27|[chapter1](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/aria/chapter1.ipynb)|无
 |虹膜小鱼|2019-08-27|[01_introduction.ipynb](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/%E8%99%B9%E8%86%9C%E5%B0%8F%E9%B1%BC_note/01_introduction.ipynb)|无|
 |森|2019-08-27|[chapter1](https://github.com/aicourse/ZMC301-CAS-NLP-2019/tree/master/lesson/note/%E6%A3%AE%E0%B2%A0_%E0%B2%B0%E0%B3%83)|无
-|Lin|2019-08-27|[chapter1](https://github.com/aicourse/ZMC301-CAS-NLP-2019/tree/master/lesson/note/%E6%A3%AE%E0%B2%A0_%E0%B2%B0%E0%B3%83)|无
+|Lin|2019-08-27|[Lin_note](https://github.com/aicourse/ZMC301-CAS-NLP-2019/tree/master/lesson/note/lin_note/Lin_note)|无
 
 
 ## 第二课 数学基础
