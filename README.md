@@ -3,7 +3,7 @@
 
 **课程视频地址**
 
-结合以下两个链接观看(北海.618搜集）：
+结合以下两个链接观看(北海.618/狮子搜集）：
 
 https://space.bilibili.com/373951238
 
@@ -65,10 +65,12 @@ https://blog.csdn.net/m0_37156901/article/details/94435165
 |风铃|2019-08-26|[1、绪论](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/风铃/note/1、绪论.md)|无|
 |Vincent|2019-08-28|[绪论note](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/vincent/Vincent.md) |无|
 |别逃了，就是你|2019-08-28|[第一章 绪论](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/别逃了，就是你/第一章_绪论_笔记.md)|无|
-|aria|2019-08-27|[chapter1](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/aria/chapter1.ipynb)|无
+|aria|2019-08-27|[chapter1](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/aria/chapter1.ipynb)|无|
 |虹膜小鱼|2019-08-27|[01_introduction.ipynb](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/%E8%99%B9%E8%86%9C%E5%B0%8F%E9%B1%BC_note/01_introduction.ipynb)|无|
-|森|2019-08-27|[chapter1](https://github.com/aicourse/ZMC301-CAS-NLP-2019/tree/master/lesson/note/%E6%A3%AE%E0%B2%A0_%E0%B2%B0%E0%B3%83)|无
-|Lin|2019-08-27|[Lin_note](https://github.com/aicourse/ZMC301-CAS-NLP-2019/tree/master/lesson/note/lin_note/Lin_note)|无
+|森|2019-08-27|[chapter1](https://github.com/aicourse/ZMC301-CAS-NLP-2019/tree/master/lesson/note/%E6%A3%AE%E0%B2%A0_%E0%B2%B0%E0%B3%83)|无|
+|Lin|2019-08-27|[Lin_note](https://github.com/aicourse/ZMC301-CAS-NLP-2019/tree/master/lesson/note/lin_note/Lin_note)|无|
+|北海.618|2019-09-03|[绪论]([https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/%E5%8C%97%E6%B5%B7%E5%B0%8F%E7%8B%AE%E5%AD%90/%E7%BB%AA%E8%AE%BA.md](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/北海小狮子/绪论.md))|无|
+
 
 
 ## 第二课 数学基础
