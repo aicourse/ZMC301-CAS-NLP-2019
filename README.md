@@ -82,9 +82,11 @@ https://blog.csdn.net/m0_37156901/article/details/94435165
 |lin|2019-8-29|无|无|
 |Vincent|2019-08-31|[chapter2](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/vincent/chapter2.md)|无|
 |陈胖胖|2019-9-01|[02数学基础](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/陈胖胖/02数学基础.md)|无|
+
 ## 第三课 形式语言与自动机
 |打卡人|完成时间|笔记|作业|
 |---|---|---|---|
 |Lin|2019-09-01|[C3](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/note/lin_note/C3.pdf)|无|
+|风铃|2019-09-03|[3、形式语言与自动机](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/风铃/note/3、形式语言与自动机.md)|无|
 
 ## 第四课 demo的展望
