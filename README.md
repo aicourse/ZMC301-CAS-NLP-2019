@@ -57,12 +57,12 @@ https://blog.csdn.net/m0_37156901/article/details/94435165
 
 
 
-## 第一课 绪论
+## 第01课 绪论
 
 |打卡人|完成时间|笔记|作业|
 |---|---|---|---|
 |鲸落|2019-08-26|[鲸落的绪论笔记（NLP的概念、发展及主要研究方法）](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/%E9%B2%B8%E8%90%BD/%E7%BB%AA%E8%AE%BA%E7%AC%94%E8%AE%B0%EF%BC%88NLP%E7%9A%84%E6%A6%82%E5%BF%B5%E3%80%81%E5%8F%91%E5%B1%95%E5%8F%8A%E4%B8%BB%E8%A6%81%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%EF%BC%89.et)|无|
-|风铃|2019-08-26|[1、绪论](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/风铃/note/1、绪论.md)|无|
+|风铃|2019-08-26|[1、绪论](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/风铃/note/01、绪论.md)|无|
 |Vincent|2019-08-28|[绪论note](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/vincent/Vincent.md) |无|
 |别逃了，就是你|2019-08-28|[第一章 绪论](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/别逃了，就是你/第一章_绪论_笔记.md)|无|
 |aria|2019-08-27|[chapter1](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/aria/chapter1.ipynb)|无|
@@ -73,20 +73,70 @@ https://blog.csdn.net/m0_37156901/article/details/94435165
 
 
 
-## 第二课 数学基础
+## 第02课 数学基础
 
 |打卡人|完成时间|笔记|作业|
 |---|---|---|---|
 |KK|2019-08-20|无|无|
-|风铃|2019-08-29|[2、数学基础](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/风铃/note/2、数学基础.md)|无|
+|风铃|2019-08-29|[2、数学基础](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/风铃/note/02、数学基础.md)|无|
 |lin|2019-8-29|无|无|
 |Vincent|2019-08-31|[chapter2](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/vincent/chapter2.md)|无|
 |陈胖胖|2019-9-01|[02数学基础](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/陈胖胖/02数学基础.md)|无|
 
-## 第三课 形式语言与自动机
+## 第03课 形式语言与自动机
 |打卡人|完成时间|笔记|作业|
 |---|---|---|---|
 |Lin|2019-09-01|[C3](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/note/lin_note/C3.pdf)|无|
-|风铃|2019-09-03|[3、形式语言与自动机](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/风铃/note/3、形式语言与自动机.md)|无|
+|风铃|2019-09-03|[3、形式语言与自动机](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/风铃/note/03、形式语言与自动机.md)|无|
 
-## 第四课 demo的展望
+## 第04课 语料库与语言知识库
+|打卡人|完成时间|笔记|作业|
+|---|---|---|---|
+
+## 第05课 语言模型
+|打卡人|完成时间|笔记|作业|
+|---|---|---|---|
+
+## 第06课 概率图模型
+|打卡人|完成时间|笔记|作业|
+|---|---|---|---|
+
+## 第07课 自动分词、命名实体识别与词性标注
+|打卡人|完成时间|笔记|作业|
+|---|---|---|---|
+
+## 第08课 句法分析
+|打卡人|完成时间|笔记|作业|
+|---|---|---|---|
+
+## 第09课 语义分析
+|打卡人|完成时间|笔记|作业|
+|---|---|---|---|
+
+## 第10课 篇章分析
+|打卡人|完成时间|笔记|作业|
+|---|---|---|---|
+
+## 第11课 统计机器翻译
+|打卡人|完成时间|笔记|作业|
+|---|---|---|---|
+
+## 第12课 语音翻译
+|打卡人|完成时间|笔记|作业|
+|---|---|---|---|
+
+## 第13课 文本分类与情感分类
+|打卡人|完成时间|笔记|作业|
+|---|---|---|---|
+
+## 第14课 信息检索与问答系统
+|打卡人|完成时间|笔记|作业|
+|---|---|---|---|
+
+## 第15课 自动文摘与信息抽取
+|打卡人|完成时间|笔记|作业|
+|---|---|---|---|
+
+## 第16课 口语信息处理与人机对话系统
+|打卡人|完成时间|笔记|作业|
+|---|---|---|---|
