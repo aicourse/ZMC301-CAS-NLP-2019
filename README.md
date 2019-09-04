@@ -92,6 +92,7 @@ https://blog.csdn.net/m0_37156901/article/details/94435165
 ## 第04课 语料库与语言知识库
 |打卡人|完成时间|笔记|作业|
 |---|---|---|---|
+|风铃|2019-09-04|[4、语料库与语言知识库](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/风铃/note/04、语料库与语言知识库.md)|无|
 
 ## 第05课 语言模型
 |打卡人|完成时间|笔记|作业|
