@@ -70,6 +70,7 @@ https://blog.csdn.net/m0_37156901/article/details/94435165
 |森|2019-08-27|[chapter1](https://github.com/aicourse/ZMC301-CAS-NLP-2019/tree/master/lesson/note/%E6%A3%AE%E0%B2%A0_%E0%B2%B0%E0%B3%83)|无|
 |Lin|2019-08-27|[Lin_note](https://github.com/aicourse/ZMC301-CAS-NLP-2019/tree/master/lesson/note/lin_note/Lin_note)|无|
 |北海.618|2019-09-03|[绪论](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/%E5%8C%97%E6%B5%B7%E5%B0%8F%E7%8B%AE%E5%AD%90/%E7%BB%AA%E8%AE%BA.md)|无|
+|Kugelfisch|2019-09-01|[Chapter1](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/Kugelfisch/Chapter1%20%E7%BB%AA%E8%AE%BA.md)|无|
 
 
 
