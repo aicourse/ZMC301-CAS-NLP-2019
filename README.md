@@ -69,8 +69,9 @@ https://blog.csdn.net/m0_37156901/article/details/94435165
 |虹膜小鱼|2019-08-27|[01_introduction.ipynb](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/%E8%99%B9%E8%86%9C%E5%B0%8F%E9%B1%BC_note/01_introduction.ipynb)|无|
 |森|2019-08-27|[chapter1](https://github.com/aicourse/ZMC301-CAS-NLP-2019/tree/master/lesson/note/%E6%A3%AE%E0%B2%A0_%E0%B2%B0%E0%B3%83)|无|
 |Lin|2019-08-27|[Lin_note](https://github.com/aicourse/ZMC301-CAS-NLP-2019/tree/master/lesson/note/lin_note/Lin_note)|无|
+|Kugelfisch|2019-08-30|[Chapter1](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/Kugelfisch/Chapter1%20%E7%BB%AA%E8%AE%BA.md)|无|
 |北海.618|2019-09-03|[绪论](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/%E5%8C%97%E6%B5%B7%E5%B0%8F%E7%8B%AE%E5%AD%90/%E7%BB%AA%E8%AE%BA.md)|无|
-|Kugelfisch|2019-09-01|[Chapter1](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/Kugelfisch/Chapter1%20%E7%BB%AA%E8%AE%BA.md)|无|
+
 
 
 
@@ -83,12 +84,14 @@ https://blog.csdn.net/m0_37156901/article/details/94435165
 |lin|2019-8-29|无|无|
 |Vincent|2019-08-31|[chapter2](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/vincent/chapter2.md)|无|
 |陈胖胖|2019-9-01|[02数学基础](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/陈胖胖/02数学基础.md)|无|
+|Kugelfisch|2019-09-01|[Chapter2](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/Kugelfisch/Chapter2%20%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md)|无|
 
 ## 第03课 形式语言与自动机
 |打卡人|完成时间|笔记|作业|
 |---|---|---|---|
 |Lin|2019-09-01|[C3](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/note/lin_note/C3.pdf)|无|
 |风铃|2019-09-03|[3、形式语言与自动机](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/风铃/note/03、形式语言与自动机.md)|无|
+|Kugelfisch|2019-09-03|[Chapter3](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/Kugelfisch/Chapter3%20形式语言与自动机.md)|无|
 
 ## 第04课 语料库与语言知识库
 |打卡人|完成时间|笔记|作业|
