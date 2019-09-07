@@ -3,7 +3,7 @@
 
 **课程视频地址**
 
-结合以下两个链接观看(北海.618/狮子搜集）：
+结合以下两个链接观看(北海.618搜集）：
 
 https://space.bilibili.com/373951238
 
@@ -79,7 +79,6 @@ https://blog.csdn.net/m0_37156901/article/details/94435165
 
 |打卡人|完成时间|笔记|作业|
 |---|---|---|---|
-|KK|2019-08-20|无|无|
 |风铃|2019-08-29|[2、数学基础](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/风铃/note/02、数学基础.md)|无|
 |lin|2019-8-29|无|无|
 |Vincent|2019-08-31|[chapter2](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/vincent/chapter2.md)|无|
