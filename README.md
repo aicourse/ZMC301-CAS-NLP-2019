@@ -85,6 +85,7 @@ https://blog.csdn.net/m0_37156901/article/details/94435165
 |陈胖胖|2019-9-01|[02数学基础](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/陈胖胖/02数学基础.md)|无|
 |Kugelfisch|2019-09-01|[Chapter2](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/Kugelfisch/Chapter2%20%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md)|无|
 |虹膜小鱼|2019-09-06|[02-Pre-knowledge.ipynb](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/%E8%99%B9%E8%86%9C%E5%B0%8F%E9%B1%BC_note/02-Pre-knowledge.ipynb)|无|
+|鲸落|2019-09-24|[02数学基础](https://github.com/aicourse/ZMC301-CAS-NLP-2019/tree/master/lesson/note/鲸落)|无|
 
 ## 第03课 形式语言与自动机
 |打卡人|完成时间|笔记|作业|
@@ -92,6 +93,7 @@ https://blog.csdn.net/m0_37156901/article/details/94435165
 |Lin|2019-09-01|[C3](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/note/lin_note/C3.pdf)|无|
 |风铃|2019-09-03|[3、形式语言与自动机](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/风铃/note/03、形式语言与自动机.md)|无|
 |Kugelfisch|2019-09-03|[Chapter3](https://github.com/aicourse/ZMC301-CAS-NLP-2019/blob/master/lesson/note/Kugelfisch/Chapter3%20形式语言与自动机.md)|无|
+|鲸落|2019-09-24|[03形式语言与自动机](https://github.com/aicourse/ZMC301-CAS-NLP-2019/tree/master/lesson/note/鲸落)|无|
 
 ## 第04课 语料库与语言知识库
 |打卡人|完成时间|笔记|作业|
