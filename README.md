@@ -106,6 +106,7 @@ https://blog.csdn.net/m0_37156901/article/details/94435165
 ## 第05课 语言模型
 |打卡人|完成时间|笔记|作业|
 |---|---|---|---|
+|鲸落|2019-09-30|[05语言模型](https://github.com/aicourse/ZMC301-CAS-NLP-2019/tree/master/lesson/note/鲸落)|无|
 
 ## 第06课 概率图模型
 |打卡人|完成时间|笔记|作业|
