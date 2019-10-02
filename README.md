@@ -111,6 +111,7 @@ https://blog.csdn.net/m0_37156901/article/details/94435165
 ## 第06课 概率图模型
 |打卡人|完成时间|笔记|作业|
 |---|---|---|---|
+|鲸落|2019-10-02|[06隐马尔可夫](https://github.com/aicourse/ZMC301-CAS-NLP-2019/tree/master/lesson/note/鲸落)|无|
 
 ## 第07课 自动分词、命名实体识别与词性标注
 |打卡人|完成时间|笔记|作业|
